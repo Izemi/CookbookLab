@@ -1,14 +1,3 @@
-/*
-* File Name: ArrayList.c
-* Author: Ozan Erat
-* Date: 1/30/2025
-* Version: 1.0.
-* Description: 
-*   Implementation of ArrayList for the Cookbook lab
-*
-* Revisions:
-*   None
-*/
 #include <stdio.h>
 #include "ArrayList.h"
 
